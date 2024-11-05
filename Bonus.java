@@ -1,4 +1,4 @@
-public class Test {
+public class Bonus {
     public static Expression fabriqueExpression(String e) {
         e = e.replaceAll("\\s", ""); 
 
